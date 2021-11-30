@@ -9,3 +9,14 @@
 - Toujours pour le code, mettez des commentaires pour que les autres sachent ce à quoi les devs pensaient
 
 ### Sommaire
+
+#### Design
+
+##### Logo
+##### Charte grraphique
+###### typos
+
+#### Dev
+
+##### Site
+###### Images
