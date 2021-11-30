@@ -1,7 +1,7 @@
 # O'gourmando
 
-##Bienvenue !
+## Bienvenue !
 
-###Quelques rêgles pour commencer
+### Quelques rêgles pour commencer
 
-###Sommaire
+### Sommaire
