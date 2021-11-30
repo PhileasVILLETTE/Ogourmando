@@ -7,6 +7,8 @@
 - Faite attention à commit au bon endroit
 - Pour le code, incrémentez avec la tabulation et non des espaces
 - Toujours pour le code, mettez des commentaires pour que les autres sachent ce à quoi les devs pensaient
+- pour les textes et les affiches, nommez-les comme ça : dd-mm-yy_sujet.for
+- pour les devs : numérotez vos versions
 
 ### Sommaire
 
